@@ -4,20 +4,20 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+June 4, 2017
 
 ### Student Name:  
-(First and Last Name)
+Yusuf Muhammed
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+The project is about an expense calculator that determine the total living expenses
+and show the percentage of the total expenses spent for each category.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+ https://yusufmuhammad.github.io/ExpenseCalculator/.
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. html coding and the use of some functions and method.
+2. css codeing and the importance of css in web development.
+3. the application of java script in handling functions.
 
